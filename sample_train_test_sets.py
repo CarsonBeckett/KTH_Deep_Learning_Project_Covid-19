@@ -1,3 +1,5 @@
+# Image preprocessing and sampling into training and test sets
+
 import pandas as pd
 import shutil
 import os
